@@ -8,7 +8,7 @@ VARIK welcomes suggesting "changing" Scrapple.
 
 The URL of the stuff of Scrapple is "http://git.varikvalefor.i2p/vvx/scrapple".
 
-VARIK translates the blog post to English and from Lojban.
+VARIK translates (to English and from Lojban) the blog post.
 
 ## "What is Scrapple?"
 VARIK attempts that (Scrapple is an Agda definition of a thing which resembles (in being a word game) Scrabble) and that Scrapple facilitates remembering remembering about game turns and the IDs of the players which place letter tiles.
