@@ -1,4 +1,4 @@
-# Sending (via Chat Rooms) Translation Sources
+# Sending (via Chatrooms) Translation Sources
 Many chatrooms $t$ exist such that VARIK sends(via $t$) English translations and translation sources.
 
 Parts of the justification of sending translations and translation sources are that (VARIK desires that a thing indicates that VARIK translates) and that (VARIK desires that easy for VARIK is "improving" the translations which are written by VARIK).
