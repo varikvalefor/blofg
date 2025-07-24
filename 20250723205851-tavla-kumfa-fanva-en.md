@@ -5,4 +5,4 @@ Parts of the justification of sending translations and translation sources are t
 
 But many chatrooms $t$ exist such that an operator of $t$ requests that VARIK does not send translation sources.  But frequent is that VARIK disobeys.  A part of the justification of disobeying is that VARIK suspects that if sending translation sources is annoying, then third-person communication is annoying.  Many prenu are angry with VARIK because VARIK writes in the third person.
 
-VARIK very thanks for operating chatrooms and tolerating VARIK.
+VARIK very thanks the prenu which operate chatrooms and tolerate VARIK.
