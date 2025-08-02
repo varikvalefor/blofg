@@ -5,4 +5,4 @@ ni'o so'i da poi ke'a tavla kumfa pe'a zo'u so'i de zo'u ca de la .varik. cu fen
 
 * zo'e joi
 * le su'u ro da poi ke'a prenu zo'u to'e vrude zo'e po la .varik. fa lo nu fengu da kei kei joi
-* le su'u ro da poi ke'a prenu zo'u lo nu fengu da lo nu da cizytolnei cu to'e filri'a lo nu da jdika lo ka ce'u cizytolnei
+* le su'u ro da poi ke'a prenu zo'u lo nu fengu da lo ka ce'u cizytolnei cu to'e filri'a lo nu da jdika lo ka ce'u cizytolnei
