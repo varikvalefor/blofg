@@ -39,3 +39,8 @@ ni'o la .varik. cu pacna lo nu lo jatna cu ckaji ko'i goi zo'e poi...
 .i la .varik. cu cusku tu'a lo su'u broda cei mu'oi glibau. role-play .glibau. kei ki'u lo su'u vo'a tolnei lo nu broda kei naje le su'u vo'a jinvi le du'u su'o da poi ke'a tavla kumfa pe'a zo'u tolmapti da fa lo nu broda kei fe le ka lakne fa lo nu ce'u to'e filri'a lo nu zabna casnu  .i ku'i na cfila fa lo ka ce'u broda
 
 .i la .varik. cu ba'e krici le du'u lo ro prenu cu ckaji ja kakne ko'i... noi jitfa fa le du'u ke'a mapti zo'e naje tu'a lo tavla kumfa pe'a
+
+## lo su'u metfo
+ni'o cumki fa lo nu le te tcidu cu metfora le su'u lo nu fengu lo prenu lo ka ce'u fengu cu jai rinka lo nu lo fasnu cu zmadu pe'a le ka ce'u mabla
+
+.i slabu la .varik.  .i cumki fa lo nu slabu lo ro prenu  .i lo so'i prenu cu fengu srera... je cu se nandu lo nu radji'i lo du'u vo'a fengu srera
