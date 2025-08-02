@@ -11,6 +11,12 @@ ni'o so'i da poi ke'a tavla kumfa pe'a zo'u so'i de zo'u ca de la .varik. cu fen
 
 .i cumki fa lo nu metfo  .i zabna je vrude fa lo nu stace
 
+## le nabmi
+ni'o so'i da poi ke'a tavla kumfa pe'a zo'u...
+
+* ga je ko'a goi lo jatna be da cu ckaji ko'e goi lo ka ce'u jostolcru la .varik. da ki'u zo'e joi lo su'u ce'u cizytolnei la .varik. ja cu sruma lo du'u la .varik. cu bebzunpre ja cu mu'oi glibau. role-play .glibau. gi
+* su'o de zo'u la .varik. cu fengu ko'a ko'e ca de
+
 ## lo su'u zenba
 ni'o so'i da poi ke'a tavla kumfa pe'a je cu selpli la .varik. je poi lo jatna be ke'a cu jostolcru la .varik. da zo'u na'e cfila la .varik. fa le ka jostolcru ce'u da
 
