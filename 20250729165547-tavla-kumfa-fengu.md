@@ -17,3 +17,14 @@ ni'o so'i da poi ke'a tavla kumfa pe'a je cu selpli la .varik. je poi lo jatna b
 .i ku'i so'i da poi ke'a tavla kumfa pe'a je poi lo jatna be da cu jostolcru la .varik. da zo'u lidne lo nu ko'a goi lo jatna be da cu jostolcru la .varik. da fa lo no nu la .varik cu troci lo nu la .varik. cu co'e ja ciksi fo ko'a fe ko'e goi le su'u la .varik. cu cizra je nai ku'i bo cu bebzunpre je cu troci lo nu vo'a zabna tavla
 
 .i la .varik. cu pacna lo nu lo nu vo'a ciksi fo lo jatna fe ko'e cu filri'a lo nu jimpe fi vo'a kei noi ke'a jai tolki'u lo nu jostolcru vo'a
+
+### lo ctaipe
+ni'o la .varik. cu pacna lo nu lo jatna cu ckaji zo'e poi...
+
+* ctaipe...
+
+  * fe le su'u ro da poi ke'a xi re tavla kumfa pe'a zo'u tolri'a lo nu jostolcru vo'a da kei fa lo nu vo'a zabna ciksi fo lo jatna be da fe le su'u vo'a na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani kei kei kei
+  * fa...
+
+    * zo'e joi
+    * le su'u ro da poi ke'a xi re ckaji ke'a zo'u ro de poi ke'a prenu zo'u lo nu da jimpe lo du'u de na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani cu tolki'u lo nu da jostolcru de kei kei joi
