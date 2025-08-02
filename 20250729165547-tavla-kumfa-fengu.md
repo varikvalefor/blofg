@@ -23,8 +23,8 @@ ni'o la .varik. cu pacna lo nu lo jatna cu ckaji zo'e poi...
 
 * ctaipe...
 
-  * fe le su'u ro da poi ke'a xi re tavla kumfa pe'a zo'u tolri'a lo nu jostolcru vo'a da kei fa lo nu vo'a zabna ciksi fo lo jatna be da fe le su'u vo'a na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani kei kei kei
+  * fe le su'u ro da poi ke'a xi re tavla kumfa pe'a zo'u tolri'a lo nu jostolcru vo'a da kei fa lo nu vo'a zabna ciksi fo lo jatna be da fe le su'u vo'a na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani kei joi le su'u vo'a djica lo nu vo'a zabna tavla kei kei kei
   * fa...
 
     * zo'e joi
-    * le su'u ro da poi ke'a xi re ckaji ke'a zo'u ro de poi ke'a prenu zo'u lo nu da jimpe lo du'u de na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani cu tolki'u lo nu da jostolcru de kei kei joi
+    * le su'u ro da poi ke'a xi re ckaji ke'a zo'u ro de poi ke'a prenu zo'u lo nu da jimpe lo du'u de na bebzunpre ja mu'oi glibau. role-play .glibau. ja cu zu'edji lo xrani kei joi lo du'u de djica lo nu de zabna tavla cu tolki'u lo nu da jostolcru de kei kei joi
