@@ -4,6 +4,7 @@ datnyvei_co_lojban=$(stat -f %N * | grep '\.md$' | grep -v '-en\.md$' | grep -v 
 datnyvei_co_glibau=$(stat -f %N * | grep '-en\.md$' | grep -v '^0-all-files-en\.md$' | sort -r);
 
 function konkatena {
+	echo "le'i ro se kibykaerni / All (Blofg Posts)\n===================="
 	for datnyvei in $*; do
 		cat "$datnyvei";
 		echo "";
