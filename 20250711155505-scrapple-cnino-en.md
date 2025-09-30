@@ -1,7 +1,7 @@
 # lo nu tolsti tu'a la'oi .Scrapple.
 20250705 is the date of that VARIK begins defining Scrapple.  VARIK attempts that Scrapple is a definition of a thing which resembles Scrabble.
 
-Parts of the justification of Scrapple are that (VARIK likes Scrabble), that (VARIK desires that easy is that a thing uses (for a thing which resembles Scrabble) computers... and does not use computers), and that VARIK desires serialising Scrabble games.
+Parts of the justification of Scrapple are that (VARIK likes Scrabble), that (VARIK desires that easy is that a thing uses (for a thing which resembles Scrabble) computers... and does not use stuff which is proprietary), and that VARIK desires serialising Scrabble games.
 
 
 VARIK welcomes suggesting "changing" Scrapple.
