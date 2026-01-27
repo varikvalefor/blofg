@@ -72,6 +72,7 @@ Some part of 20260126 or 20260127 is an event of...
 		* $p$ is not a prenu) (which is false)),
 	* all events (of that some prenu $p$ exists such that $p$ opines/whatever that ($p$ is hated) or that no prenu loves $p$),
 	* all events (of that some prenu $p$ exists such that $p$ attempts that $p$ earns being loved) (which are events of that some prenu does not understand),
+	* all events (of that some prenu $p$ exists such that $p$ not-understands that $p$ is loved),
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ loves $p$),
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ loves),
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ is loved),
