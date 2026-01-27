@@ -3,16 +3,14 @@ The Emotions (which are Experienced (by VARIK) during 20260126 or 20260127) and 
 
 Some part of 20260126 or 20260127 is an event of...
 
-* that (VARIK experiences pain in the head of VARIK),
+* that (VARIK consumes caffeine, and the milligramme-based amount approximately equals 200),
 * that (VARIK is somewhat tired),
-* that (VARIK oddly sleeps),
-* that (VARIK excessively sleeps),
-* that (VARIK consumes caffeine, and the milligramme-based amount approximately equals 480),
 * that (VARIK is extreme in being glad about that (VARIK is agender), that VARIK understands that VARIK is agender, and that being agender is inherent to VARIK),
 * that (VARIK is glad about that (VARIK is transgender) (which is not inherent to VARIK but is inherent to the combination of VARIK and the body of VARIK)),
-* that (VARIK _slightly_ experiences gender dysphoria),
+* that (VARIK slightly experiences gender dysphoria),
 * that (VARIK is glad about that (events (of that VARIK experiences gender dysphoria) and events (of that VARIK experiences discomfort about that prenu assume (about VARIK) stuff which is incorrect) indicate that VARIK is VARIK)),
 * that (VARIK is glad about events (of that "IT" or whatever is used as a pronoun of VARIK) and whatnot),
+* that (VARIK does not experience gender dysphoria),
 * that (VARIK expects that (VARIK is killed or whatever, and the justification is relevant to that VARIK is transgender, is weird, and is extreme)),
 * that (VARIK does not fear that VARIK dies),
 * that (VARIK is serious),
