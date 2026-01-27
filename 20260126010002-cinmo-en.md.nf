@@ -67,7 +67,7 @@ Some part of 20260126 or 20260127 is an event of...
 		* $p$ is incapable of doing art, or
 		* $p$ does not deserve being loved, or
 		* a thing which is possible is that ($p$ enacts some thing which causes that $p$ earns being loved),
-		* $p$ is incapable of being perfect/maximal in the property of loving all prenu, or
+		* $p$ is incapable of being perfect/maximal in the property of loving all prenu,
 		* being perfect/maximal in the property of loving all prenu is difficult for $p$, or
 		* $p$ is not a prenu) (which is false)),
 	* all events (of that some prenu $p$ exists such that $p$ opines/whatever that ($p$ is hated) or that no prenu loves $p$),
