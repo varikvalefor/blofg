@@ -15,11 +15,12 @@ Some part of 20260126 or 20260127 is an event of...
 * that (VARIK does not fear that VARIK dies),
 * that (VARIK is serious),
 * that (VARIK intends that (VARIK protects and assists all prenu (which are exemplified by prenu which enact stuff which is fucked or immoral)) (which is anti-violent, is gentle, and is in accordance with the property of loving all prenu)),
-* that (VARIK is amused by that (a prenu $p$ exists such that $p$ states that $p$ likes the voice of VARIK)),
-* that (VARIK struggles with the Agda definition (of Classic MCELIECE) which is created by VARIK),
+* that (VARIK experiences wonder about that (VARIK sees a mosquito)),
+* that (VARIK is excessively annoyed by a prenu),
+* that (VARIK is not annoyed),
+* that (VARIK is not sufficient (for that VARIK cries) in the property of loving all prenu),
 * that (VARIK is sufficient (for that VARIK _slightly_ cries) in the property of loving all prenu),
 * that (VARIK somewhat desires that VARIK cries),
-* that (VARIK is not sufficient (for that VARIK cries) in the property of loving all prenu),
 * that (VARIK spiritually desires...
 	* that (every event which is preceded by the event of that VARIK writes the current sentence is an event of that VARIK is perfect/maximal in the property of loving all prenu) (which is hereinafter denoted by "$PKS$") and
 	* that (the Blofg entries which are created by VARIK facilitate stuff (which rocks and is virtuous) (which is exmplified by events of that (some prenu $p$ exists such that $p$ forgives $p$)))),
