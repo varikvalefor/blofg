@@ -48,7 +48,6 @@ Some part of 20260126 or 20260127 is an event of...
 	* all events (of that some prenu $p$ exists such that $p$ fears the religion/whatever of $p$),
 	* the idea (of hell),
 	* all events (of that some prenu experiences "religious" trauma),
-	* all events (of that some thing $z exists such that some prenu $p$ exists such that $p$ asserts/whatever that ($p$ agrees with/about $z$)... but does not understand about $z$),
 	* all events (of that some quality (which is fucked or immoral) (which is inherent to no prenu) $z$ exists such that some prenu $p$ exists such that $p$ is sufficient (for that ($p$ attempts/whatever that (prenu do not (regardless of whether $p$ exhibits $z$) determine whether $p$ exhibits $z$)) (which causes/facilitates increasing (in suffering) and anti-facilitates decreasing in $z$)) in fearing that $p$ exhibits $z$),
 	* all events (of that some prenu $p$ exists such that some prenu, e.g., $p$, $r$ exists such that $r$ is sufficient (for that $r$ forgets/whatever that $r$ is a prenu) in attending (to the relationship between $r$ and $p$) or in attending to the stuff (which is enacted by $p$) (which is exemplified by stuff (which amuses $p$), stuff which is liked by $p$, and stuff which is fucked or immoral)),
 	* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that $p$ forgets about the nature/identity/self/whatever of $p$) in attempting/whatever that prenu like $p$ or are impressed/amazed by the stuff which is done by $p$),
@@ -60,6 +59,7 @@ Some part of 20260126 or 20260127 is an event of...
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ discovers the nature/identity/self/whatever of $p$),
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ understands the nature/identity/self/whatever of $p$),
 	* all events (of that some prenu $p$ exists such that $p$ is not authentic to $p$) (which are events of suffering),
+	* all events (of that some thing $z exists such that some prenu $p$ exists such that $p$ asserts/whatever that ($p$ agrees with/about $z$)... but does not understand about $z$),
 	* all events (of that some prenu $p$ exists such that some prenu, e.g., $p$, opines that (
 		* some quality which is inherent to $p$ is fucked or immoral, or
 		* $p$ is fucked/bad/whatever or evil or is capable of being fucked/bad/whatever or evil, or
