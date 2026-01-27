@@ -31,6 +31,7 @@ Some part of 20260126 or 20260127 is an event of...
 	* violent metaphors/whatever,
 	* weapons,
 	* all events (of that some prenu is imprisoned),
+	* all events (of that some prenu $p$ exists such that (some event (of that the body of $p$ is harvested/used-for-farming) $n$ happens such that ($p$ does not permit $n$ and state that $p$ permits $n$))),
 	* all events (of violence),
 	* all events (of transphobia),
 	* all events (of xenophobia),
