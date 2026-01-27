@@ -41,6 +41,7 @@ Some part of 20260126 or 20260127 is an event of...
 	* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that $p$ fears that ($p$ is independent in spiritually/whatever-ly considering stuff) or that (some prenu which is not $p$ "follows" a religion which is not "followed" by $p$) or opines/whatever that (for all prenu $r$, if $r$ is religious, then $r$ attempts "religiously" controlling/manipulating prenu which are not $r$)) in that prenu attempt/whatever to "religiously" control/manipulate $p$),
 	* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that attempts/whatever that evidence indicates the religion/whatever of $p$) in fearing that ($p$ believes and does not know) (which is necessary for being religious)),
 	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ believes and does not know),
+	* all events (of that some prenu $p$ exists such that $p$ fears that $p$ spiritually/whatever-ly considers stuff),
 	* all events (of that some prenu $p$ exists such that $p$ opines/whatever that all hypothetical events of that (some religion $r$ exists such that $p$ "follows" $r$, and no prenu which is not $p$ "follows" $r$) are fucked or immoral),
 	* all events (of that some prenu $p$ exists such that $p$ opines/whatever that a thing which is necessary is that $p$ "follows" a religion/whatever which is not believed by $p$),
 	* all events (of that some prenu $p$ exists such that $p$ fears that ($p$ is aware of things $s$ such that $p$ disagrees with/about $s$)),
