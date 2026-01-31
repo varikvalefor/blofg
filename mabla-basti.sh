@@ -9,5 +9,6 @@ sed -e "s/\\* le ka ce'u gleki le su'u ri ckaji le ka ce'u xi re tonsi noi ku'i 
 sed -e "s/\\* le ka ce'u milxe ko'a goi le ka su'u lingeni kei tolpu'a ce'u xi re gi ga ce/* that (VARIK somewhat experiences gender dysphoria),/" |\
 sed -e "s/\\* le ka ce'u cortu le pagbu be le stedu be ce'u gi ga ce/* that (VARIK experiences pain in the head of VARIK),/" |\
 sed -e "s/\\* le ka ce'u milxe le ka ce'u xi re tatpi gi ga ce/* that (VARIK is somewhat tired),/" |\
-sed -e "s/\\* le ka ce'u cizra sipna gi ga ce/* that (VARIK oddly sleeps),/"
+sed -e "s/\\* le ka ce'u cizra sipna gi ga ce/* that (VARIK oddly sleeps),/" |\
+sed -e "s/\\* le ka ce'u dukse le ka ce'u xi re sipna gi ga ce/* that (VARIK excessively sleeps),/"
 
