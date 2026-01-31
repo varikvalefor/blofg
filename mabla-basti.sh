@@ -17,4 +17,5 @@ sed -e "s/\\* le ka ce'u banzuka py ky le ka ce'u xi re milxe ko'a goi le ka ce'
 sed -e "s/\\* le ka ce'u milxe le ka ce'u xi re djica lo nu ri klaku gi ga ce/ that (VARIK somewhat desires that VARIK cries),/" |\
 sed -e "s/\\* le ka le ro bangu be ce'u cu to'e banzuka fi lo ka ce'u xi re bangu fi lo velcki be le nu ce'u xi pa re'enje djica py ky sy gi ga ce/* that (all languages which are used by VARIK are insufficient for communicating the extent of that VARIK spiritually desires $PKS$),/" |\
 sed -e "s/\\* le ka ce'u ci'au .oi re'e ga je.../* that (VARIK experiences spiritual pain about.../" |\
-sed -e "s/\\* lo ro nu jamna gi ga je/* all events (of war),/"
+sed -e "s/\\* lo ro nu jamna gi ga je/* all events (of war),/" |\
+sed -e "s/\\* tu'a zo'e je lo vlile metfo gi ga je/* all events (of war),/"
