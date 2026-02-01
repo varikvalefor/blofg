@@ -22,4 +22,5 @@ sed -e "s/\\* tu'a zo'e je lo vlile metfo gi ga je/* all events (of war),/" |\
 sed -e "s/\\* lo ro nu jdini bilma gi ga je/* all events (of that some prenu experiences affluenza),/" |\
 sed -e "s/\\* tu'a lo xarci gi ga je/* weapons,/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu pinfu gi ga je/\\* all events (of that some prenu is imprisoned),/" |\
-sed -e "s/\\* lo ro vlile gi ga je/\\* all events (of violence),/"
+sed -e "s/\\* lo ro vlile gi ga je/\\* all events (of violence),/" |\
+sed -e "s/\\* lo ro nu ciztyolnei lo su'o prenu gi ga je/\\* all events (of xenophobia),/"
