@@ -23,6 +23,6 @@ sed -e "s/\\* lo ro nu jdini bilma gi ga je/* all events (of that some prenu exp
 sed -e "s/\\* tu'a lo xarci gi ga je/* weapons,/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu pinfu gi ga je/\\* all events (of that some prenu is imprisoned),/" |\
 sed -e "s/\\* lo ro vlile gi ga je/\\* all events (of violence),/" |\
-sed -e "s/\\* lo ro nu ciztyolnei lo su'o prenu gi ga je/\\* all events (of xenophobia),/"
+sed -e "s/\\* lo ro nu ciztyolnei lo su'o prenu gi ga je/\\* all events (of xenophobia),/" |\
 sed -e "s/\\* lo ro nu terpa tu'a lo tonsi je prenu gi ga je/\\* all events (of transphobia),/" |\
 sed -e "s/\\* lo ro nu co'e ja xebni ja fengu lo su'o prenu kei noi ke'a nu xlafri jenai cu jimpe kei je cu filri'a lo nu zenba lo ka ce'u xi re xlafri gi ga je/\\* all events (of that some prenu $p$ exists such that some prenu is angry at $p$ or hates $p$) (which are events of that (prenu suffer and do not understand) and facilitate that prenu increase in suffering),/"
