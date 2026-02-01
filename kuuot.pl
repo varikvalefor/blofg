@@ -8,4 +8,4 @@ my $eng = <>;
 chomp($eng);
 $eng =~ s/^\+?\s*\*/\\\\*/;
 
-print("sed -e \"s/$jbo/$eng/\"");
+print("sed -e \"s/$jbo/$eng/\"\n");
