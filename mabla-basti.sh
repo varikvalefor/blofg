@@ -36,4 +36,5 @@ sed -e "s/\\* lo ro nu su'o da poi ke'a prenu zo'u da co'e ja jinvi lo du'u mabl
 sed -e "s/\\* lo ro nu lo su'o prenu cu co'e ja jinvi lo du'u sarcu fa lo nu ri seljda pe'a lo su'o na te krici be fi ri gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ opines/whatever that a thing which is necessary is that $p$ "follows" a religion/whatever which is not believed by $p$),/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu terpa tu'a lo nu ri sanji lo co'e ja te toltu'i be fi ri gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ fears that ($p$ is aware of things $s$ such that $p$ disagrees with/about $s$)),/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu terpa tu'a lo co'e ja lijda be ri gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ fears the religion/whatever of $p$),/" |\
-sed -e "s/\\* lo si'o pacraistu gi ga je/\\* the idea (of hell),/"
+sed -e "s/\\* lo si'o pacraistu gi ga je/\\* the idea (of hell),/" |\
+sed -e "s/\\* lo ro nu lijda pe'a ke xlafri bilma gi ga je/\\* all events (of that some prenu experiences "religious" trauma),/"
