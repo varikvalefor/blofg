@@ -6,6 +6,6 @@ $jbo =~ s/^-?\s*\*/\\\\*/;
 
 my $eng = <>;
 chomp($eng);
-$eng =~ s/^+?\s*\*/\\\\*/;
+$eng =~ s/^\+?\s*\*/\\\\*/;
 
 print("sed -e \"s/$jbo/$eng/\"");
