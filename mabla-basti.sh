@@ -20,6 +20,5 @@ sed -e "s/\\* le ka ce'u ci'au .oi re'e ga je.../* that (VARIK experiences spiri
 sed -e "s/\\* lo ro nu jamna gi ga je/* all events (of war),/" |\
 sed -e "s/\\* tu'a zo'e je lo vlile metfo gi ga je/* all events (of war),/" |\
 sed -e "s/\\* lo ro nu jdini bilma gi ga je/* all events (of that some prenu experiences affluenza),/" |\
-sed -e "s/\\* tu'a lo xarci gi ga je/* weapons,/"
-
-
+sed -e "s/\\* tu'a lo xarci gi ga je/* weapons,/" |\
+sed -e "s/\\* lo ro nu lo su'o prenu cu pinfu gi ga je/\\* all events (of that some prenu is imprisoned),/"
