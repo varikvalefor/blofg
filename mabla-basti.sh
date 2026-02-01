@@ -19,5 +19,7 @@ sed -e "s/\\* le ka le ro bangu be ce'u cu to'e banzuka fi lo ka ce'u xi re bang
 sed -e "s/\\* le ka ce'u ci'au .oi re'e ga je.../* that (VARIK experiences spiritual pain about.../" |\
 sed -e "s/\\* lo ro nu jamna gi ga je/* all events (of war),/" |\
 sed -e "s/\\* tu'a zo'e je lo vlile metfo gi ga je/* all events (of war),/" |\
-sed -e "s/\\* lo ro nu jdini bilma gi ga je/* all events (of that some prenu experiences affluenza),/"
+sed -e "s/\\* lo ro nu jdini bilma gi ga je/* all events (of that some prenu experiences affluenza),/" |\
+sed -e "s/\\* tu'a lo xarci gi ga je/* weapons,/"
+
 
