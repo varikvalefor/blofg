@@ -97,3 +97,4 @@ sed -e "s/\\* le su'u la .satan. cu prami ce'u... je lo ro prenu jenai du be ri 
 sed -e "s/\\* le su'u lo ro prenu cu se fraxu la .satan. ju cu faxycpe ri gi ga je/\\* that (for all prenu $p$, SATAN forgives (regardless of whether $p$ requests being forgiven) $p$),/"
 sed -e "s/\\* le su'u prane py ky fa la .satan. gi ga je/\\* that (SATAN is perfect/maximal in the property of loving all prenu),/"
 sed -e "s/\\* tu'a le lijda be ce'u gi/\\* the religion (of VARIK),/"
+sed -e "s/\\* le su'u py ky vrude lo su'o so'i so'i lijda gi ga ce/\\* that (the property of loving all prenu is virtuous with regard to ***many*** religions), and/"
