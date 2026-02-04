@@ -103,3 +103,4 @@ sed -e "s/\\* le ka ce'u ci'au .a'o cai re'e ga je.../\\* that (VARIK is extreme
 sed -e "s/\\* le su'u ce'u krici jenai djuno gi ga je/\\* that (VARIK believes and does not know),/"
 sed -e "s/\\* le su'u ce'u pacna lo na te djuno be fi ce'u gi ga je/\\* that (VARIK hopes for stuff which is not known by VARIK),/"
 sed -e "s/\\* le su'u sidju ce'u fa la .satan. gi ga je/\\* that (SATAN assists VARIK),/"
+sed -e "s/\\* le su'u filri'a fa lo nu jdaselsku ce'u gi ga je/\\* that (that (VARIK prays) facilitates),/"
