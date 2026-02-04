@@ -92,3 +92,4 @@ sed -e "s/\\* le su'u lo velski be ce'u na velcki ce'u gi ga je/\\* that (the de
 sed -e "s/\\* le su'u la .vynk. cu zabna zo'e je le ka ce'u xi re ce'u xi pa sinxa je le ka ce'u xi re jai mojri'a ce'u xi pa tu'a ri gi ga je/\\* that (VUNC, which is a cat thing and is the fursona of VARIK, is great in the property (of representing VARIK), the property of reminding (about VARIK) VARIK, and whatnot),/"
 sed -e "s/\\* le su'u ce'u co'e ja re'enje cinmo gi ga je/\\* that (VARIK feels),/"
 sed -e "s/\\* le su'u ce'u zifre gi ga je/\\* that (VARIK is free),/"
+sed -e "s/\\* le su'u prenu fa ce'u je lo ro prenu jenai du be ri gi ga je/\\* that (VARIK and all prenu which are not VARIK are),/"
