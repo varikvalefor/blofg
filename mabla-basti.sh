@@ -89,3 +89,4 @@ sed -e "s/\\* le su'u cumki fa lo nu randa je lo nu cnikansa lo ro prenu zo'e je
 sed -e "s/\\* le su'u ce'u du ce'u gi ga je/\\* that (VARIK is VARIK),/"
 sed -e "s/\\* le su'u ce'u na xadni ce'u gi ga je/\\* that (VARIK is not the body of VARIK),/"
 sed -e "s/\\* le su'u lo velski be ce'u na velcki ce'u gi ga je/\\* that (the descriptions of VARIK are not definitions of VARIK),/"
+sed -e "s/\\* le su'u la .vynk. cu zabna zo'e je le ka ce'u xi re ce'u xi pa sinxa je le ka ce'u xi re jai mojri'a ce'u xi pa tu'a ri gi ga je/\\* that (VUNC, which is a cat thing and is the fursona of VARIK, is great in the property (of representing VARIK), the property of reminding (about VARIK) VARIK, and whatnot),/"
