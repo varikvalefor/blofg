@@ -149,3 +149,4 @@ sed -e "s/\\* le su'u lo ro prenu cu prami ri janai cu ckaji py ky gi ga je/\\* 
 sed -e "s/\\* le su'u lo ro prenu cu prane py ky janai le ka ce'u xi re jimpe fi py ky gi ga je/\\* that (for all prenu $p$, if $p$ is perfect/maximal in understanding about the property of loving all prenu, then $p$ is perfect/maximal in the property of loving all prenu),/"
 sed -e "s/\\* le su'u tu'a py ky tadji tu'a py ky gi ga je/\\* that (loving all prenu is the method of loving all prenu),/"
 sed -e "s/\\* le su'u py ky tu'a ri jai krinu gi ga je/\\* that (loving all prenu justifies loving all prenu),/"
+sed -e "s/\\* le su'u py ky jai re'enje rarna gi ga je/\\* that (loving all prenu is spiritually natural),/"
