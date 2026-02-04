@@ -140,3 +140,4 @@ sed -e "s/\\* le su'u na vrude fa lo ka ce'u xi re sutra ja cu tolcando gi ga je
 sed -e "s/\\* le su'u lo nu masno noi ke'a se filri'a lo nu jundi lo prenu cu to'e filri'a lo snuti je xrani be lo prenu gi ga je/\\* that (being slow, which is facilitated by being attentive to prenu, anti-facilitates that prenu are accidentally harmed),/"
 sed -e "s/\\* le su'u su'o da zo'u vrude fa lo nu na zukte va'o da gi ga je/\\* that (a situation $s$ exists such that not acting in $s$ is virtuous),/"
 sed -e "s/\\* le su'u cumki fa lo nu stace poi ke'a na cnixai gi ga je/\\* that (events (of being honest) which do not offend are possible),/"
+sed -e "s/\\* le su'u narcu'i fa lo ro nu lo su'o prenu cu jitro lo su'o prenu jenai du be ri lo su'u ri prami gi ga je/\\* that (for all prenu $p$, a thing which is impossible is that $p$ controls/coerces/enacts/forces that some prenu (which is not $p$) loves),/"
