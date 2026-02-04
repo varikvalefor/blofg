@@ -108,3 +108,4 @@ sed -e "s/\\* lo ro nu ce'u banzuka py ky lo ka ce'u xi re na'e milxe lo ka ce'u
 sed -e "s/\\* le su'u ce'u krici ja jimpe le du'u py ky traji le ka ce'u xi re vajni je le ka ce'u xi re vrude gi ga je/\\* that (VARIK understands (or believes) that the property of loving all prenu is superlatively important and is superlatively virtuous),/"
 sed -e "s/\\* le su'u ce'u na jitro ja birti fi lo balvi gi ga je/\\* that (VARIK is not certain about the future, and VARIK does not control the future),/"
 sed -e "s/\\* le su'u .indika le du'u ce'u zenba py ky gi ga je/\\* that (stuff indicates that VARIK increases in the property of loving all prenu),/"
+sed -e "s/\\* le su'u lo nu ce'u prane py ky ku narfaunarcu'i lo nu curmi ri fa ce'u gi ga je/\\* that (that (VARIK is perfect/maximal in the property of loving all prenu) is inevitable (under that VARIK permits that VARIK is perfect/maximal in the property of loving all prenu)),/"
