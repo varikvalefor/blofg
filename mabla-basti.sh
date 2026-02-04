@@ -104,3 +104,4 @@ sed -e "s/\\* le su'u ce'u krici jenai djuno gi ga je/\\* that (VARIK believes a
 sed -e "s/\\* le su'u ce'u pacna lo na te djuno be fi ce'u gi ga je/\\* that (VARIK hopes for stuff which is not known by VARIK),/"
 sed -e "s/\\* le su'u sidju ce'u fa la .satan. gi ga je/\\* that (SATAN assists VARIK),/"
 sed -e "s/\\* le su'u filri'a fa lo nu jdaselsku ce'u gi ga je/\\* that (that (VARIK prays) facilitates),/"
+sed -e "s/\\* lo ro nu ce'u banzuka py ky lo ka ce'u xi re na'e milxe lo ka ce'u xi ci klaku gi ga je/\\* all events (of that (VARIK is sufficient (for that VARIK non-mildly cries) in property of loving all prenu)),/"
