@@ -117,3 +117,4 @@ sed -e "s/\\* le su'u ro da poi ke'a zilkai je cu mabla ja tolvu'e noi ke'a jinz
 sed -e "s/\\* le su'u gaurtcini lo ro prenu fa lo ro nu ri cikna co'e kei fi lo zabna je vrude gi ga je/\\* that (for all prenu $p$, every event of that $p$ is awake/whatever is an opportunity for that $p$ enacts/permits/whatever stuff which rocks and is virtuous),/"
 sed -e "s/\\* le su'u lo su'o se xamsku cu mapti py ky gi ga je/\\* that (some jokes are compatible with the property of loving all prenu),/"
 sed -e "s/\\* le su'u na sarcu fa lo nu xamsku gi ga je/\\* that (joking is not necessary),/"
+sed -e "s/\\* le su'u na xrani fa lo nu co'e ja re'enje jurpei gi ga je/\\* that (spiritually/whatever-ly considering stuff is not harmful),/"
