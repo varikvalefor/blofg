@@ -98,3 +98,4 @@ sed -e "s/\\* le su'u lo ro prenu cu se fraxu la .satan. ju cu faxycpe ri gi ga 
 sed -e "s/\\* le su'u prane py ky fa la .satan. gi ga je/\\* that (SATAN is perfect/maximal in the property of loving all prenu),/"
 sed -e "s/\\* tu'a le lijda be ce'u gi/\\* the religion (of VARIK),/"
 sed -e "s/\\* le su'u py ky vrude lo su'o so'i so'i lijda gi ga ce/\\* that (the property of loving all prenu is virtuous with regard to ***many*** religions), and/"
+sed -e "s/\\* le ka ce'u ci'au .ui re'e ga je.../\\* that (VARIK experiences spiritual joy about.../"
