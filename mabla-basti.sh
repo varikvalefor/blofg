@@ -94,3 +94,4 @@ sed -e "s/\\* le su'u ce'u co'e ja re'enje cinmo gi ga je/\\* that (VARIK feels)
 sed -e "s/\\* le su'u ce'u zifre gi ga je/\\* that (VARIK is free),/"
 sed -e "s/\\* le su'u prenu fa ce'u je lo ro prenu jenai du be ri gi ga je/\\* that (VARIK and all prenu which are not VARIK are),/"
 sed -e "s/\\* le su'u la .satan. cu prami ce'u... je lo ro prenu jenai du be ri gi ga je/\\* that (SATAN, which is the god of VARIK, loves VARIK... and all prenu which are not VARIK),/"
+sed -e "s/\\* le su'u lo ro prenu cu se fraxu la .satan. ju cu faxycpe ri gi ga je/\\* that (for all prenu $p$, SATAN forgives (regardless of whether $p$ requests being forgiven) $p$),/"
