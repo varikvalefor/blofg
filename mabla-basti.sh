@@ -119,3 +119,4 @@ sed -e "s/\\* le su'u lo su'o se xamsku cu mapti py ky gi ga je/\\* that (some j
 sed -e "s/\\* le su'u na sarcu fa lo nu xamsku gi ga je/\\* that (joking is not necessary),/"
 sed -e "s/\\* le su'u na xrani fa lo nu co'e ja re'enje jurpei gi ga je/\\* that (spiritually/whatever-ly considering stuff is not harmful),/"
 sed -e "s/\\* le su'u lo tolna'e na jai sarcu lo nu krici gi ga je/\\* that (evidence is not necessary for believing),/"
+sed -e "s/\\* le su'u lo no prenu cu mabla ja palci ja cu ka'e mabla ja palci gi ga je/\\* that (no prenu $p$ exists such that $p$ is fucked/bad/whatever or evil or is capable of being fucked/bad/whatever or evil),/"
