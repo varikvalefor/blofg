@@ -86,3 +86,4 @@ sed -e "s/\\* lo ro nu xlafri gi ga je/\\* all events (of that some prenu suffer
 sed -e "s/\\* lo ro nu ce'u co'e ja se jai fanza tu'a lo su'o prenu gi/\\* all events (of that VARIK is annoyed/whatever by some prenu),/"
 sed -e "s/\\* lo ro nu ce'u na prane py ky kei noi ce'u fraxu ce'u ke'a gi ga ce/\\* all events (of that (VARIK is not perfect/maximal in the property of loving all prenu)) (which are forgiven by VARIK), and/"
 sed -e "s/\\* le su'u cumki fa lo nu randa je lo nu cnikansa lo ro prenu zo'e je lo ka ce'u xi re xlafri kei kei je lo nu morji fi lo mabla ja tolvu'e je fasnu kei je lo nu prane py ky gi ga je/\\* that (yielding, empathising (in suffering and whatnot) (with all prenu), remembering about events which are fucked or immoral, and being perfect/maximal in the property of loving all prenu are possible),/"
+sed -e "s/\\* le su'u ce'u du ce'u gi ga je/\\* that (VARIK is VARIK),/"
