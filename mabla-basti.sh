@@ -146,3 +146,4 @@ sed -e "s/\\* le su'u ro da poi ke'a prenu je cu xlafri zo'u lo nu da jimpe lo d
 sed -e "s/\\* le su'u ro da poi ke'a prenu zo'u lo nu da certu na sarcu lo nu da prane py ky gi ga je/\\* that (for every prenu $p$, that ($p$ is an expert) is not necessary for that $p$ is perfect/maximal in the property of loving all prenu),/"
 sed -e "s/\\* le su'u cumki fa lo nu ckaji be py ky be'o je co'e lo cmaci gi ga je/\\* that (lovingly doing mathematics is possible),/"
 sed -e "s/\\* le su'u lo ro prenu cu prami ri janai cu ckaji py ky gi ga je/\\* that (for all prenu $p$, if $p$ exhibits the property of loving all prenu, then $p$ loves $p$),/"
+sed -e "s/\\* le su'u lo ro prenu cu prane py ky janai le ka ce'u xi re jimpe fi py ky gi ga je/\\* that (for all prenu $p$, if $p$ is perfect/maximal in understanding about the property of loving all prenu, then $p$ is perfect/maximal in the property of loving all prenu),/"
