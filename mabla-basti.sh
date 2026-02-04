@@ -118,3 +118,4 @@ sed -e "s/\\* le su'u gaurtcini lo ro prenu fa lo ro nu ri cikna co'e kei fi lo 
 sed -e "s/\\* le su'u lo su'o se xamsku cu mapti py ky gi ga je/\\* that (some jokes are compatible with the property of loving all prenu),/"
 sed -e "s/\\* le su'u na sarcu fa lo nu xamsku gi ga je/\\* that (joking is not necessary),/"
 sed -e "s/\\* le su'u na xrani fa lo nu co'e ja re'enje jurpei gi ga je/\\* that (spiritually/whatever-ly considering stuff is not harmful),/"
+sed -e "s/\\* le su'u lo tolna'e na jai sarcu lo nu krici gi ga je/\\* that (evidence is not necessary for believing),/"
