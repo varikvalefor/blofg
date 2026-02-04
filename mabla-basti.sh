@@ -150,3 +150,4 @@ sed -e "s/\\* le su'u lo ro prenu cu prane py ky janai le ka ce'u xi re jimpe fi
 sed -e "s/\\* le su'u tu'a py ky tadji tu'a py ky gi ga je/\\* that (loving all prenu is the method of loving all prenu),/"
 sed -e "s/\\* le su'u py ky tu'a ri jai krinu gi ga je/\\* that (loving all prenu justifies loving all prenu),/"
 sed -e "s/\\* le su'u py ky jai re'enje rarna gi ga je/\\* that (loving all prenu is spiritually natural),/"
+sed -e "s/\\* le su'u py ky jai to'e racli gi ga je/\\* that (loving all prenu is irrational/illogical),/"
