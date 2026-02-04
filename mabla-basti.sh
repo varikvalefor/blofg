@@ -69,4 +69,7 @@ sed -e "s/\\* lo ro nu lo su'o prenu cu banzuka zo'e je lo ka ce'u xi re pensi l
 sed -e "s/\\* lo ro nu lo su'o prenu cu co'e ja jinvi lo du'u ri na zifre gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ opines/whatever that $p$ is not free),/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu banzuka zo'e je lo ka ce'u xi re terpa lo nu malku'i ri kei kei lo ka ce'u xi re malku'i lo prenu kei ja cu co'e ja troci lo nu na jimpe fi ce'u xi re gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that $p$ mistreats prenu or attempts/whatever that prenu do not understand about $p$) in fearing that $p$ is mistreated),/" |\
 sed -e "s/\\* lo ro nu lo su'o prenu cu banzuka lo ka malku'i ce'u xi re kei lo ka ce'u xi re co'e ja tolmo'i lo du'u na sarcu fa lo nu ri malku'i lo su'o prenu gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that $p$ forgets/whatever that that ($p$ mistreats prenu) is not necessary) in being mistreated),/" |\
-sed -e "s/\\* lo ro nu xlafri bilma gi ga je/\\* all events (of that some prenu experiences trauma),/"
+sed -e "s/\\* lo ro nu xlafri bilma gi ga je/\\* all events (of that some prenu experiences trauma),/" |\
+sed -e "s/\\* lo ro nu ci'au .a'o nai gi ga je/\\* all events (of that some prenu experiences despair),/" |\
+sed -e "s/\\* le su'u lo so'i nu xamsku cu nu skuxai jenai cu co'e gi ga je/\\* that (many events of joking are events of that (prenu insult and-not do whatnot)),/" |\
+sed -e "s/\\* le su'u lo xrani be lo prenu cu frili fi lo nu na jundi zo'e je lo prenu gi ga je/\\* that (accidentally enacting stuff which harms prenu is easy (under that prenu do not attend to prenu and whatnot)),/"
