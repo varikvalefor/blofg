@@ -135,3 +135,4 @@ sed -e "s/\\* le su'u tolmapti py ky fa lo ro jursa ja nu lo su'o prenu cu co'e 
 sed -e "s/\\* le su'u sarcu fa lo no mabla ja tolvu'e gi ga je/\\* that (no thing which is fucked or immoral is necessary),/"
 sed -e "s/\\* le su'u lo ro mabla ja tolvu'e cu tolmapti py ky gi ga je/\\* that (all things which are fucked or immoral are incompatible with the property of loving all prenu),/"
 sed -e "s/\\* le su'u lo ro co'e cu vrude jo cu mapti py ky gi ga je/\\* that (for all things $x$, $x$ is virtuous if-and-only-if $x$ is in accordance with the property of all prenu),/"
+sed -e "s/\\* le su'u lo ro cadga cu mapti py ky gi ga je/\\* that (all stuff which should happen is in accordance with the property of loving all prenu),/"
