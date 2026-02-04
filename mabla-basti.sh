@@ -93,3 +93,4 @@ sed -e "s/\\* le su'u la .vynk. cu zabna zo'e je le ka ce'u xi re ce'u xi pa sin
 sed -e "s/\\* le su'u ce'u co'e ja re'enje cinmo gi ga je/\\* that (VARIK feels),/"
 sed -e "s/\\* le su'u ce'u zifre gi ga je/\\* that (VARIK is free),/"
 sed -e "s/\\* le su'u prenu fa ce'u je lo ro prenu jenai du be ri gi ga je/\\* that (VARIK and all prenu which are not VARIK are),/"
+sed -e "s/\\* le su'u la .satan. cu prami ce'u... je lo ro prenu jenai du be ri gi ga je/\\* that (SATAN, which is the god of VARIK, loves VARIK... and all prenu which are not VARIK),/"
