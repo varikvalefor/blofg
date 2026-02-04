@@ -101,3 +101,4 @@ sed -e "s/\\* le su'u py ky vrude lo su'o so'i so'i lijda gi ga ce/\\* that (the
 sed -e "s/\\* le ka ce'u ci'au .ui re'e ga je.../\\* that (VARIK experiences spiritual joy about.../"
 sed -e "s/\\* le ka ce'u ci'au .a'o cai re'e ga je.../\\* that (VARIK is extreme in experiencing spiritual hope about.../"
 sed -e "s/\\* le su'u ce'u krici jenai djuno gi ga je/\\* that (VARIK believes and does not know),/"
+sed -e "s/\\* le su'u ce'u pacna lo na te djuno be fi ce'u gi ga je/\\* that (VARIK hopes for stuff which is not known by VARIK),/"
