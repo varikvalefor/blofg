@@ -72,4 +72,5 @@ sed -e "s/\\* lo ro nu lo su'o prenu cu banzuka lo ka malku'i ce'u xi re kei lo 
 sed -e "s/\\* lo ro nu xlafri bilma gi ga je/\\* all events (of that some prenu experiences trauma),/" |\
 sed -e "s/\\* lo ro nu ci'au .a'o nai gi ga je/\\* all events (of that some prenu experiences despair),/" |\
 sed -e "s/\\* le su'u lo so'i nu xamsku cu nu skuxai jenai cu co'e gi ga je/\\* that (many events of joking are events of that (prenu insult and-not do whatnot)),/" |\
-sed -e "s/\\* le su'u lo xrani be lo prenu cu frili fi lo nu na jundi zo'e je lo prenu gi ga je/\\* that (accidentally enacting stuff which harms prenu is easy (under that prenu do not attend to prenu and whatnot)),/"
+sed -e "s/\\* le su'u lo xrani be lo prenu cu frili fi lo nu na jundi zo'e je lo prenu gi ga je/\\* that (accidentally enacting stuff which harms prenu is easy (under that prenu do not attend to prenu and whatnot)),/" |\
+sed -e "s/\\* le su'u lo vlile cu jai filri'a lo nu terpa fa lo prenu jenai jimpe be fi py ky kei noi ke'a filri'a lo nu fengu noi ke'a xi re filri'a lo nu xebni noi ke'a xi re filri'a lo vlile gi ga je/\\* that (violence facilitates that (prenu which do not understand about the property of loving all prenu experience {VERB} fear), which facilitates that (prenu experience anger), which facilitates that (prenu hate), which facilitates violence),/" |\
