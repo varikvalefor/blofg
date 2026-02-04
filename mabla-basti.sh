@@ -88,3 +88,4 @@ sed -e "s/\\* lo ro nu ce'u na prane py ky kei noi ce'u fraxu ce'u ke'a gi ga ce
 sed -e "s/\\* le su'u cumki fa lo nu randa je lo nu cnikansa lo ro prenu zo'e je lo ka ce'u xi re xlafri kei kei je lo nu morji fi lo mabla ja tolvu'e je fasnu kei je lo nu prane py ky gi ga je/\\* that (yielding, empathising (in suffering and whatnot) (with all prenu), remembering about events which are fucked or immoral, and being perfect/maximal in the property of loving all prenu are possible),/"
 sed -e "s/\\* le su'u ce'u du ce'u gi ga je/\\* that (VARIK is VARIK),/"
 sed -e "s/\\* le su'u ce'u na xadni ce'u gi ga je/\\* that (VARIK is not the body of VARIK),/"
+sed -e "s/\\* le su'u lo velski be ce'u na velcki ce'u gi ga je/\\* that (the descriptions of VARIK are not definitions of VARIK),/"
