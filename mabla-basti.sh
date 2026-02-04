@@ -84,3 +84,4 @@ sed -e "s/\\* lo ro nu su'o da poi ke'a prenu zo'u su'o de poi ke'a cmima ga ce 
 sed -e "s/\\* lo ro nu lo su'o prenu cu banzuka lo ka ce'u xi re troci lo nu ri ckaji py ky kei kei lo ka ce'u xi re na ckaji py ky gi ga je/\\* all events (of that some prenu $p$ exists such that $p$ is sufficient (for that $p$ does not exhibit the property of loving all prenu) in attempting that $p$ exhibits the property of loving all prenu),/"
 sed -e "s/\\* lo ro nu xlafri gi ga je/\\* all events (of that some prenu suffers),/"
 sed -e "s/\\* lo ro nu ce'u co'e ja se jai fanza tu'a lo su'o prenu gi/\\* all events (of that VARIK is annoyed/whatever by some prenu),/"
+sed -e "s/\\* lo ro nu ce'u na prane py ky kei noi ce'u fraxu ce'u ke'a gi ga ce/\\* all events (of that (VARIK is not perfect/maximal in the property of loving all prenu)) (which are forgiven by VARIK), and/"
