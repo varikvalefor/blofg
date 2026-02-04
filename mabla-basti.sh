@@ -133,3 +133,4 @@ sed -e "s/\\* le su'u tu'a lo cicricfoi zgike lu'u ce tu'a lo nu smaji cu klesi 
 sed -e "s/\\* le su'u ro da poi ke'a prenu zo'u lo nu da ckaji py ky cu rinka lo nu da randa gi ga je/\\* that (for every prenu $p$, that $p$ exhibits the property of loving all prenu causes {VERB} that $p$ yields),/"
 sed -e "s/\\* le su'u tolmapti py ky fa lo ro jursa ja nu lo su'o prenu cu co'e ja troci lo nu ri jitro lo su'o prenu jenai du be ri gi ga je/\\* that (all events of being harsh are incompatible with the property of loving all prenu, and all events of attempting/whatever manipulating/controlling prenu are incompatible with the property of loving all prenu),/"
 sed -e "s/\\* le su'u sarcu fa lo no mabla ja tolvu'e gi ga je/\\* that (no thing which is fucked or immoral is necessary),/"
+sed -e "s/\\* le su'u lo ro mabla ja tolvu'e cu tolmapti py ky gi ga je/\\* that (all things which are fucked or immoral are incompatible with the property of loving all prenu),/"
