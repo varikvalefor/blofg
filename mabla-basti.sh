@@ -138,3 +138,4 @@ sed -e "s/\\* le su'u lo ro co'e cu vrude jo cu mapti py ky gi ga je/\\* that (f
 sed -e "s/\\* le su'u lo ro cadga cu mapti py ky gi ga je/\\* that (all stuff which should happen is in accordance with the property of loving all prenu),/"
 sed -e "s/\\* le su'u na vrude fa lo ka ce'u xi re sutra ja cu tolcando gi ga je/\\* that (being fast is not virtuous, and being active/busy is not virtuous),/"
 sed -e "s/\\* le su'u su'o da zo'u vrude fa lo nu na zukte va'o da gi ga je/\\* that (being slow, which is facilitated by being attentive to prenu, anti-facilitates that prenu are accidentally harmed),/"
+sed -e "s/\\* le su'u lo nu masno noi ke'a se filri'a lo nu jundi lo prenu cu to'e filri'a lo snuti je xrani be lo prenu gi ga je/\\* that (being slow, which is facilitated by being attentive to prenu, anti-facilitates that prenu are accidentally harmed),/"
