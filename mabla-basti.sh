@@ -122,3 +122,4 @@ sed -e "s/\\* le su'u lo tolna'e na jai sarcu lo nu krici gi ga je/\\* that (evi
 sed -e "s/\\* le su'u lo no prenu cu mabla ja palci ja cu ka'e mabla ja palci gi ga je/\\* that (no prenu $p$ exists such that $p$ is fucked/bad/whatever or evil or is capable of being fucked/bad/whatever or evil),/"
 sed -e "s/\\* le su'u lo ro prenu cu prenu je cu zabna jenai cu co'e ja gunma loi se zukte be ri gi ga je/\\* that (for all prenu $p$, $p$ is a prenu, rocks, and is not an aggregate/whatever of the stuff which is enacted by $p$),/"
 sed -e "s/\\* le su'u lo nu ce'u co'e ja ci'asre na rinka lo nu binxo gi ga je/\\* that (events (of that VARIK cuases typos) do not cause that stuff changes),/"
+sed -e "s/\\* le su'u narcu'i fa lo ro nu lo su'o prenu cu zukte lo te jerna be lo nu prami ri gi ga je/\\* that (earning being loved is impossible),/"
