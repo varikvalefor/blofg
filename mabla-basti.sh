@@ -124,4 +124,3 @@ sed -e "s/\\* le su'u lo ro prenu cu prenu je cu zabna jenai cu co'e ja gunma lo
 sed -e "s/\\* le su'u lo nu ce'u co'e ja ci'asre na rinka lo nu binxo gi ga je/\\* that (events (of that VARIK cuases typos) do not cause that stuff changes),/"
 sed -e "s/\\* le su'u narcu'i fa lo ro nu lo su'o prenu cu zukte lo te jerna be lo nu prami ri gi ga je/\\* that (earning being loved is impossible),/"
 sed -e "s/\\* le su'u banzuka fa lo ka ce'u xi re prenu gi ga je/\\* that (being is sufficient),/"
-sed -e "s/\\* le su'u ro da poi ke'a prenu zo'u ga je da se jinzi lo no mabla ja tolvu'e je cu ka'e prane py ky joi loi ro jinzi be da gi mapti py ky fa lo ro jinz/i be da gi ga je/"
