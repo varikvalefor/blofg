@@ -1,4 +1,4 @@
-#!\/bin\/ksh
+#!/bin/ksh
 
 # ni'o ko'a goi le proga co'e cu jai filiri'a lo nu fanva fi le glibau kei ni'i zo'e joi le su'u vo'a zmiku lo nu basti pe'a
 #
