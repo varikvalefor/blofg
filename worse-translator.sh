@@ -168,3 +168,4 @@ sed -e "s/\\* le ka ce'u na banzuka py ky ko'a goi lo ka ce'u xi re klaku gi ga 
 sed -e "s/\\* le ka le ro bangu be ce'u cu to'e banzuka fi lo ka ce'u xi re bangu fi lo velcki be le ni ce'u xi pa re'enje djica py ky sy gi ga ce/\\* that (all languages which are used by VARIK are insufficient for communicating the extent of that VARIK spiritually desires $PKS$),/"
 sed -e "s/\\* lo ro nu su'o da poi ke'a prenu zo'u cfari fa lo nu cange fo lo xadni be da kei poi da na curmi ke'a je cu cusku lo se du'u da curmi ke'a gi ga je/\\* all events (of that some prenu $p$ exists such that some event (of that the body of $p$ is used for farming stuff) $n$ happens such that $p$ does not permit $n$ or does not state that $p$ permits $n$),/"
 sed -e "s/\\* lo ro nu vlile gi ga je/\\* all events (of violence),/"
+sed -e "s/\\* lo ro nu cizytolnei lo su'o prenu gi ga je/\\* all events (of xenophobia),/"
