@@ -165,3 +165,4 @@ sed -e "s/\\* le ka ce'u ci'au .ue le nu ce'u viska le zanzara gi ga ce/\\* that
 sed -e "s/\\* le ka ce'u dukse le ka ce'u xi re se fanza tu'a lo prenu gi ga ce/\\* that (VARIK is excessively annoyed by prenu),/"
 sed -e "s/\\* le ka na fanza ce'u gi ga ce/\\* that (VARIK is not annoyed),/"
 sed -e "s/\\* le ka ce'u na banzuka py ky ko'a goi lo ka ce'u xi re klaku gi ga ce/\\* that (VARIK is not sufficient (for that VARIK cries) in the property of loving all prenu),/"
+sed -e "s/\\* le ka le ro bangu be ce'u cu to'e banzuka fi lo ka ce'u xi re bangu fi lo velcki be le ni ce'u xi pa re'enje djica py ky sy gi ga ce/\\* that (all languages which are used by VARIK are insufficient for communicating the extent of that VARIK spiritually desires $PKS$),/"
