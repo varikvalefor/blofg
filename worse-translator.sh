@@ -164,3 +164,4 @@ sed -e "s/\\* le ka ce'u gleki le su'u lo nu ce'u ko'a ckaji je lo nu tolpu'a ce
 sed -e "s/\\* le ka ce'u ci'au .ue le nu ce'u viska le zanzara gi ga ce/\\* that (VARIK is surprised about that (VARIK observes a mosquito)),/"
 sed -e "s/\\* le ka ce'u dukse le ka ce'u xi re se fanza tu'a lo prenu gi ga ce/\\* that (VARIK is excessively annoyed by prenu),/"
 sed -e "s/\\* le ka na fanza ce'u gi ga ce/\\* that (VARIK is not annoyed),/"
+sed -e "s/\\* le ka ce'u na banzuka py ky ko'a goi lo ka ce'u xi re klaku gi ga ce/\\* that (VARIK is not sufficient (for that VARIK cries) in the property of loving all prenu),/"
