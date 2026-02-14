@@ -163,3 +163,4 @@ sed -e "s/\\* le ka ce'u pinxe loi kafxu'i je milgra be li ji'i re no no gi ga c
 sed -e "s/\\* le ka ce'u gleki le su'u lo nu ce'u ko'a ckaji je lo nu tolpu'a ce'u fa lo nu co'e ja sruma lo jitfa ce'u cu jai .indika le du'u ce'u du ce'u gi ga ce/\\* that (VARIK is glad about that (events (of that VARIK experiences gender dysphoria) and events (of that VARIK experiences discomfort about that prenu assume (about VARIK) stuff which is incorrect) indicate that VARIK is VARIK)),/"
 sed -e "s/\\* le ka ce'u ci'au .ue le nu ce'u viska le zanzara gi ga ce/\\* that (VARIK is surprised about that (VARIK observes a mosquito)),/"
 sed -e "s/\\* le ka ce'u dukse le ka ce'u xi re se fanza tu'a lo prenu gi ga ce/\\* that (VARIK is is excessively annoyed by prenu),/"
+sed -e "s/\\* le ka na fanza ce'u gi ga ce/\\* that (VARIK is not annoyed),/"
