@@ -177,3 +177,4 @@ sed -e "s/\\* lo ro nu su'o da poi ke'a zilkai je cu mabla ja tolvu'e noi ke'a j
 sed -e "s/\\* le ka ce'u gleki zo'e je lo nu zo'oi .IT. pe le glibau basyvla zo'e ja le cmene be ce'u gi ga ce/\\* that (VARIK is glad about events (of that "IT" is used as a pronoun of VARIK) and whatnot),/"
 sed -e "s/\\* le ka ce'u kanpe lo nu co'e ja catra le xadni be ce'u ki'u zo'e joi le su'u ce'u tonsi je cu cizra je cu mutce gi ga ce/\\* that (VARIK expects that (VARIK is killed or whatever, and the justification is relevant to that VARIK is transgender, is weird, and is extreme)),/"
 sed -e "s/\\* le ka ce'u na terpa lo nu morsi fa le xadni be ce'u xi ga ce/\\* that (VARIK does not fear that VARIK dies),/"
+sed -e "s/\\* le ka ce'u junri gi ga ce/\\* that (VARIK is serious),/"
